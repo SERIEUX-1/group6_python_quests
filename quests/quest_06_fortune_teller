@@ -1,4 +1,0 @@
-#!/usr/bin/python3
-user_name = input("What is your name?: ")
-quest = input("What is your quest?: ")
-print ("Dear, {user_name} your quest is {quest}. Goodluck!")
