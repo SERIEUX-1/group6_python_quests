@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+password = input("Enter your password: ")
+correct_password = "Security123"
+if password == correct_password:
+    print ("Access Granted")
+else:
+    print ("Access Denied")
